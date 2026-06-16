@@ -1,0 +1,35 @@
+body{
+    font-family:Arial;
+    background :white;
+}
+
+.container{
+    width:90%;
+    margin:auto;
+    background:rgb(255, 251, 251);
+    padding:20px;
+}
+
+form{
+    display:grid;
+    gap:10px;
+}
+
+input{
+    padding:10px;
+}
+
+button{
+    padding:10px;
+}
+
+table{
+    width:100%;
+    margin-top:20px;
+    border-collapse:collapse;
+}
+
+th,td{
+    border:1px solid #000000;
+    padding:10px;
+}
